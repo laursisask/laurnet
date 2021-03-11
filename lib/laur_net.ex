@@ -1,0 +1,2 @@
+defmodule LaurNet do
+end
